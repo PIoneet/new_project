@@ -8,7 +8,6 @@ int main(){
     cout<<"Hello Wordl!"<<endl;
     cin>>num;
     cout<<num+100<<endl;
-    cout << "num의 곱연산: " + num * 200 << endl;
     cout << "num과 50의 합은: " + numSum(num) << endl;
     return 0;
 }
