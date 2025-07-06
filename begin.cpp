@@ -10,6 +10,7 @@ int main(){
     cout<<num+100<<endl;
     cout << "num과 50의 합은: " + numSum(num) << endl;
     return 0;
+
 }
 
 int numSum(int num){
