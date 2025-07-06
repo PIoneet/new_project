@@ -9,4 +9,5 @@ int main(){
     cin>>num;
     cout<<num+100<<endl;
     return 0;
+
 }
